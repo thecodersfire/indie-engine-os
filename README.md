@@ -25,8 +25,4 @@ The `indie-engine.svg` wallpaper is original. Indie Engine OS is an independent 
 See [FEATURES.md](FEATURES.md) for three local tools included for game development.
 
 
-The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, KiCad**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Godot Engine, GIMP, Inkscape**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
