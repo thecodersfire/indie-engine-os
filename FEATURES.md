@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/indie-engine-os-workspace features/indie-engine-os-plan features/indie-engine-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for game development:
+
+1. **Godot Engine** — org.godotengine.Godot
+2. **GIMP** — org.gimp.GIMP
+3. **Inkscape** — org.inkscape.Inkscape
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
